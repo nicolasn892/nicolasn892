@@ -14,8 +14,10 @@
 
 ### ⚡ Principais Hard Skills
 - **Python**
-- **SQL Server**
+- **SQL**
+- **Spark**
 - **ETL/ELT**
+- **APIs** 
 - **DATABRICKS**
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white)
