@@ -1,5 +1,6 @@
 ### 👋 Olá, eu sou o Nicolas !
  **👨‍💻 Atualmente trabalho como Engenheiro de Dados!**
+ 
  **🎓 Eng. Computação - UEMG ;**
 
 
