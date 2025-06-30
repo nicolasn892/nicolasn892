@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou o Nicolas !
-- **Atualmente trabalho como Engenheiro de Dados!**
-- **Estou concluindo minha graduação em Engenharia da Computação;**
+- **👨‍💻 Atualmente trabalho como Engenheiro de Dados!**
+- **🎓 Eng. Computação - UEMG ;**
 
 
 ### 🔗 Contatos & Portfólio:
